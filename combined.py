@@ -41,7 +41,7 @@ def PlotLetter(Z):
                         fc = (1., 0.8, 0.8),
                         )
             )
-    plt.show()
+    plt.show()        
 
 decision = float(input('Please select an option: 1, 2 or 3: '))
 
